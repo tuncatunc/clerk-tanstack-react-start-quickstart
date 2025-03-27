@@ -5,7 +5,7 @@ import {
   Scripts,
 } from '@tanstack/react-router'
 import type * as React from 'react'
-import { ClerkProvider } from '@clerk/tanstack-start'
+import { ClerkProvider } from '@clerk/tanstack-react-start'
 
 export const Route = createRootRoute({
   component: () => {

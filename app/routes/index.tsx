@@ -1,35 +1,35 @@
-import {
-  SignedIn,
-  UserButton,
-  SignOutButton,
-  SignedOut,
-  SignInButton,
-  SignUpButton,
-} from '@clerk/tanstack-start'
-import { createFileRoute } from '@tanstack/react-router'
+import { createFileRoute, redirect } from '@tanstack/react-router'
+import { createServerFn } from '@tanstack/react-start'
+import { getAuth } from '@clerk/tanstack-react-start/server'
+import { getWebRequest } from '@tanstack/react-start/server'
+
+const authStateFn = createServerFn({ method: 'GET' }).handler(async () => {
+  const request = getWebRequest()
+  if (!request) throw new Error('No request found')
+  const { userId } = await getAuth(request)
+
+  if (!userId) {
+    // This will error because you're redirecting to a path that doesn't exist yet
+    // You can create a sign-in route to handle this
+    // See https://clerk.com/docs/references/tanstack-start/custom-sign-in-or-up-page
+    throw redirect({
+      to: '/sign-in/$',
+    })
+  }
+
+  return { userId }
+})
 
 export const Route = createFileRoute('/')({
   component: Home,
+  beforeLoad: async () => await authStateFn(),
+  loader: async ({ context }) => {
+    return { userId: context.userId }
+  },
 })
 
 function Home() {
-  return (
-    <div>
-      <h1>Index Route</h1>
-      <SignedIn>
-        <p>You are signed in</p>
+  const state = Route.useLoaderData()
 
-        <UserButton />
-
-        <SignOutButton />
-      </SignedIn>
-      <SignedOut>
-        <p>You are signed out</p>
-
-        <SignInButton />
-
-        <SignUpButton />
-      </SignedOut>
-    </div>
-  )
+  return <h1>Welcome! Your ID is {state.userId}!</h1>
 }
