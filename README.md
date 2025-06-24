@@ -35,7 +35,7 @@ After following the [Clerk TanStack Start quickstart](https://clerk.com/docs/qui
 - Install `@clerk/tanstack-start@beta`
 - Set up your environment keys
 - Wrap your Root Component with `<ClerkProvider />`
-- Configure `clerkHandler()` in the SSR entrypoint
+- Configure `clerkHandler()` in the server handler entrypoint
 - Use Clerk components to protect your content
 - Embed the `<SignInButton />` and `<SignOutButton />`
 - Deploy your application
