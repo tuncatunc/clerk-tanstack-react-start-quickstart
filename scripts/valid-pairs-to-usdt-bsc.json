@@ -1,0 +1,1418 @@
+[
+  {
+    "from": "ACT",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "AI16Z",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "APT",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "BRETT",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "BONK",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "USDbC",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "APU",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "BERA",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "BTC",
+    "fromNetwork": "liquid",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "BTC",
+    "fromNetwork": "bitcoin",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "BCH",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "BLUR",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "BONE",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "ADA",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "TIA",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "LINK",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "DAI",
+    "fromNetwork": "optimism",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "DAI",
+    "fromNetwork": "base",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "DAI",
+    "fromNetwork": "avax",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "DAI",
+    "fromNetwork": "polygon",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "DAI",
+    "fromNetwork": "arbitrum",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "DAI",
+    "fromNetwork": "ethereum",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "XEC",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "ETH",
+    "fromNetwork": "arbitrum",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "ETH",
+    "fromNetwork": "optimism",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "ETH",
+    "fromNetwork": "scroll",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "ETH",
+    "fromNetwork": "zksyncera",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "ETH",
+    "fromNetwork": "base",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "ETH",
+    "fromNetwork": "blast",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "ETH",
+    "fromNetwork": "ethereum",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "ARB",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "STX",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "cbBTC",
+    "fromNetwork": "base",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "cbBTC",
+    "fromNetwork": "solana",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "cbBTC",
+    "fromNetwork": "ethereum",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "COLLAT",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "COQ",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "ATOM",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "CRO",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "CRV",
+    "fromNetwork": "ethereum",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "CRV",
+    "fromNetwork": "arbitrum",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "MANA",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "PRIME",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "ETHFI",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "GNS",
+    "fromNetwork": "arbitrum",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "GNS",
+    "fromNetwork": "polygon",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "GALA",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "GHO",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "GMX",
+    "fromNetwork": "avax",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "GMX",
+    "fromNetwork": "arbitrum",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "EUROC",
+    "fromNetwork": "solana",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "EUROC",
+    "fromNetwork": "ethereum",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "FARTCOIN",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "FET",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "FDUSD",
+    "fromNetwork": "bsc",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "FDUSD",
+    "fromNetwork": "ethereum",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "FLOKI",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "GRASS",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "GRIFFAIN",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "BITCOIN",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "HOUSE",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "HYPE",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "ILV",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "KET",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "CHZ",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "COMP",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "ENA",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "FXS",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "FWOG",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "BIT",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "DASH",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "DOGE",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "SNX",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "HEX",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "cbETH",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "EIGEN",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "USDE",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "FRAX",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "IMX",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "AERO",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "TAO",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "BTC.b",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "BAT",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "SAVAX",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "mETH",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "OM",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "RON",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "AIXBT",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "ALGO",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "AMP",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "APE",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "AVAX",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "AXS",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "MOG",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "MOODENG",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "INJ",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "JASMY",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "JELLYJELLY",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "ZRO",
+    "fromNetwork": "arbitrum",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "LRC",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "MAGIC",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "MIM",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "MKR",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "MEW",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "WIF",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "GIGA",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "USDG",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "JTO",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "JITOSOL",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "JOE",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "KAITO",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "KMNO",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "MOONPIG",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "MORPHO",
+    "fromNetwork": "ethereum",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "MORPHO",
+    "fromNetwork": "base",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "JUP",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "LTC",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "MOVE",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "MSOL",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "NEIRO",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "TRUMP",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "ONDO",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "OP",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "ORCA",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "CAKE",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "USDP",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "PYUSD",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "PNUT",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "PEPE",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "POL",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "HONEY",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "PENDLE",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "DOT",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "POPCAT",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "PENGU",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "PUMP",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "QNT",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "RAY",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "RESOLV",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "XRP",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "RPL",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "RLB",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "RBTC",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "XAI",
+    "fromNetwork": "ethereum",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "XAI",
+    "fromNetwork": "internal",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "S",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "SPX",
+    "fromNetwork": "ethereum",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "SPX",
+    "fromNetwork": "solana",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "ICP",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "LDO",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "RNDR",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "USR",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "SEI",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "FOX",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "SHIB",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "SOL",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "stETH",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "SYRUP",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "SAND",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "USDC",
+    "fromNetwork": "aptos",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "USDC",
+    "fromNetwork": "arbitrum",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "USDC",
+    "fromNetwork": "sui",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "USDC",
+    "fromNetwork": "bsc",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "USDC",
+    "fromNetwork": "avax",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "USDC",
+    "fromNetwork": "sonic",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "USDC",
+    "fromNetwork": "solana",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "USDC",
+    "fromNetwork": "optimism",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "USDC",
+    "fromNetwork": "ethereum",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "USDC",
+    "fromNetwork": "polygon",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "USDC",
+    "fromNetwork": "base",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "USDC",
+    "fromNetwork": "algorand",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "VVV",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "MNT",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "XLM",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "GMT",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "STONKS",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "SUSHI",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "SWARMS",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "SWEAT",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "SYN",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "TBTC",
+    "fromNetwork": "ethereum",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "TBTC",
+    "fromNetwork": "optimism",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "TBTC",
+    "fromNetwork": "polygon",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "TBTC",
+    "fromNetwork": "arbitrum",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "TBTC",
+    "fromNetwork": "base",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "TBTC",
+    "fromNetwork": "solana",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "USDT",
+    "fromNetwork": "arbitrum",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "USDT",
+    "fromNetwork": "ton",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "USDT",
+    "fromNetwork": "avax",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "USDT",
+    "fromNetwork": "tron",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "USDT",
+    "fromNetwork": "solana",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "USDT",
+    "fromNetwork": "ethereum",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "USDT",
+    "fromNetwork": "polygon",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "USDT",
+    "fromNetwork": "liquid",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "USDT",
+    "fromNetwork": "aptos",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "USDT",
+    "fromNetwork": "optimism",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "rETH",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "TNSR",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "SUI",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "GRT",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "TOSHI",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "XAUT",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "TUSD",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "TURBO",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "UNI",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "USDS",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "USELESS",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "VERSE",
+    "fromNetwork": "ethereum",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "VERSE",
+    "fromNetwork": "polygon",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "VIRTUAL",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "WETH",
+    "fromNetwork": "base",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "WETH",
+    "fromNetwork": "polygon",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "WETH",
+    "fromNetwork": "ethereum",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "WBTC",
+    "fromNetwork": "optimism",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "WBTC",
+    "fromNetwork": "arbitrum",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "WBTC",
+    "fromNetwork": "ethereum",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "WBTC",
+    "fromNetwork": "avax",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "WBTC",
+    "fromNetwork": "polygon",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "LAUNCHCOIN",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "SAI",
+    "fromNetwork": "ethereum",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "SAI",
+    "fromNetwork": "liquid",
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "FLUID",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "BNB",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "CORE",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "HBAR",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "TRX",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "1INCH",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "AAVE",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "NEAR",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "WOO",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "WLD",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "WAVAX",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "wSOL",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "YFI",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "HNT",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  },
+  {
+    "from": "TON",
+    "fromNetwork": null,
+    "to": "usdt",
+    "toNetwork": "bsc"
+  }
+]

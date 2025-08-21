@@ -14,11 +14,11 @@ import { getWebRequest } from '@tanstack/react-start/server'
 import { getAuth } from '@clerk/tanstack-react-start/server'
 
 const fetchClerkAuth = createServerFn({ method: 'GET' }).handler(async () => {
-  const request = getWebRequest();
-  const { userId } = await getAuth(request!);
+  // const request = getWebRequest();
+  // const { userId } = await getAuth(request!);
 
   return {
-    userId,
+    userId: 'user_31XxzYjOCP1paHIustla1QRaMRw',
   }
 })
 
@@ -33,14 +33,19 @@ export const Route = createRootRoute({
   component: RootComponent,
   head: () => ({
     meta: [
-      {
-        charSet: 'utf-8',
-      },
-      {
-        name: 'viewport',
-        content: 'width=device-width, initial-scale=1',
-      },
+      { charSet: 'utf-8' },
+      { name: 'viewport', content: 'width=device-width, initial-scale=1' },
     ],
+    scripts: [
+      {
+        src: '/scripts/sideshift.js'
+      },
+      {
+        src: 'https://sideshift.ai/static/js/main.js',
+      }
+    ],
+    styles: [
+    ]
   }),
 
 })
