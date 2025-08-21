@@ -8,9 +8,41 @@ import {
   Scripts,
   createRootRoute,
 } from '@tanstack/react-router'
+import { createMiddleware, createServerFn } from '@tanstack/react-start'
+import { z } from 'zod'
+import { getWebRequest } from '@tanstack/react-start/server'
+import { getAuth } from '@clerk/tanstack-react-start/server'
+
+const fetchClerkAuth = createServerFn({ method: 'GET' }).handler(async () => {
+  const request = getWebRequest();
+  const { userId } = await getAuth(request!);
+
+  return {
+    userId,
+  }
+})
 
 export const Route = createRootRoute({
+  beforeLoad: async () => {
+    const { userId } = await fetchClerkAuth()
+
+    return {
+      userId,
+    }
+  },
   component: RootComponent,
+  head: () => ({
+    meta: [
+      {
+        charSet: 'utf-8',
+      },
+      {
+        name: 'viewport',
+        content: 'width=device-width, initial-scale=1',
+      },
+    ],
+  }),
+
 })
 
 function RootComponent() {

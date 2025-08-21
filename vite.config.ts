@@ -12,4 +12,5 @@ export default defineConfig({
     }),
     tanstackStart(),
   ],
+  envPrefix: ["VITE_", 'ONLYCOINS_']
 })
