@@ -14,12 +14,13 @@ import { getWebRequest } from '@tanstack/react-start/server'
 import { getAuth } from '@clerk/tanstack-react-start/server'
 
 const fetchClerkAuth = createServerFn({ method: 'GET' }).handler(async () => {
-  // const request = getWebRequest();
-  // const { userId } = await getAuth(request!);
+  const request = getWebRequest();
+  const { userId } = await getAuth(request!);
+  return { userId };
 
-  return {
-    userId: 'user_31XxzYjOCP1paHIustla1QRaMRw',
-  }
+  // return {
+  //   userId: 'user_31XxzYjOCP1paHIustla1QRaMRw',
+  // }
 })
 
 export const Route = createRootRoute({
